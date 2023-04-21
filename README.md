@@ -2,8 +2,8 @@
 
 #### 1. Lineal search.
     
-__O(n)__  ***Linear Time Complexity***
-    The time complexity of this code is linear, as the number of operations increases linearly with the size of the input array.
+__O(n)__  ***Linear Time Complexity*** <br/>
+    The time complexity of this code is linear, as the number of operations increases linearly with the size of the input array.<br/>
 [Repository Solution](https://github.com/ramirez456/algorithms/blob/main/algorithms/lineal_search.ts)
 
 #### 2. Binary search.
