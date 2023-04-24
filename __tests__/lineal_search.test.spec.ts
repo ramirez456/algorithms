@@ -1,5 +1,5 @@
 
-import {search } from '../algorithms/lineal_search'
+import { search } from '../algorithms/lineal_search'
 
 describe('myFunction', () => {
      // Tests that the function returns the correct index when given an array with multiple identical elements. 

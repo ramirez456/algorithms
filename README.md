@@ -1,7 +1,13 @@
 #### The 25 most popular algorithms.
- For resolve that algoritms I use https://runjs.app
+1. For solve these algoritms I use https://runjs.app
  
-![run js](https://github.com/ramirez456/algorithms/blob/main/software.png?raw=true)
+    ![run js](https://github.com/ramirez456/algorithms/blob/main/software.png?raw=true)
+
+2. To validate your syntax run.
+    ***npx eslint .***
+3. To validate your test run.
+    ***npm run test***
+
 #### 1. Lineal search.
     
 __O(n)__  ***Linear Time Complexity*** <br/>

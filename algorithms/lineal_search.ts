@@ -1,7 +1,7 @@
 
 function search (array: number[], key: number) : number {
   for (let index=0; index< array.length; index++) {
-    if(array[index]===key) {
+    if (array[index]===key) {
       return index;
     }
   }
