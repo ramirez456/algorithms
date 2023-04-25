@@ -22,5 +22,6 @@ module.exports = {
     "no-mixed-spaces-and-tabs": "warn",
     "no-trailing-spaces": "warn",
     "eol-last": [ "warn", "always" ],
+    "space-before-blocks": [ "error", "always" ]
   },
 };
