@@ -5,6 +5,8 @@
 
 2. To validate your syntax run.
     ***npx eslint .***
+    or you can run 
+    ***npm run lint -- --fix***
 3. To validate your test run.
     ***npm run test***
 
