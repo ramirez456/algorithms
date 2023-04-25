@@ -17,7 +17,7 @@ __O(n)__  ***Linear Time Complexity*** <br/>
 [Repository Solution](https://github.com/ramirez456/algorithms/blob/main/algorithms/lineal_search.ts)
 
 #### 2. Binary search.
-    Available on 24/04/23
+    [Repository Solution](https://github.com/ramirez456/algorithms/blob/main/algorithms/binary_search.ts) 
 #### 3. Bubble sort .
     Available on 25/04/23
 #### 4. Insertion sort.
