@@ -18,9 +18,10 @@ __O(n)__  ***Linear Time Complexity*** <br/>
 
 #### 2. Binary search.
 Binary search is far more faster-searching algorithm than linear searching if the array is sorted. And its Big-O run time is O(log n).<br/>
-[Repository Solution](https://github.com/ramirez456/algorithms/blob/main/algorithms/binary_seach.ts) 
+[Repository Solution](https://github.com/ramirez456/algorithms/blob/main/algorithms/binary_seach.ts)
 #### 3. Bubble sort .
-    Available on 25/04/23
+Bubble sort is an algorithm used for sorting arrays, and its worst-case scenario time complexity is O(n&sup2;).<br/>
+[Repository Solution](https://github.com/ramirez456/algorithms/blob/main/algorithms/bubble_sort.ts)
 #### 4. Insertion sort.
     Available on 26/04/23
 #### 5. Selection sort.

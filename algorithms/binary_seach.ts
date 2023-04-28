@@ -16,3 +16,5 @@ function search(array: number[], key:number): number {
 }
 const array = [ 1,2,3,4,5,6,7,8,9 ];
 search(array,4);
+
+export { search };
