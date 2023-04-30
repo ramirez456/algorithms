@@ -3,7 +3,6 @@ function search(array: number[], key:number): number {
   let right = array.length - 1;
   while (left <= right) {
     const middle = Math.floor( left + (right -left) / 2 );
-    console.log(middle);
     if (array[ middle ]=== key) {
       return middle;
     } else if(key > array[ middle ]) {
