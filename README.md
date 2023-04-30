@@ -23,9 +23,11 @@ Binary search is far more faster-searching algorithm than linear searching if th
 Bubble sort is an algorithm used for sorting arrays, and its worst-case scenario time complexity is O(n&sup2;).<br/>
 [Repository Solution](https://github.com/ramirez456/algorithms/blob/main/algorithms/bubble_sort.ts)
 #### 4. Insertion sort.
-    Available on 26/04/23
+Insertion sort is an algorithm used for sorting arrays, and its worst-case scenario time complexity is O(n&sup2;).<br/>
+[Repository Solution](https://github.com/ramirez456/algorithms/blob/main/algorithms/insert_sort.ts)
 #### 5. Selection sort.
-    Available on 27/04/23
+The selection sort is an in-place comparison sorting algorithm. It has an O(n&sup2;) time complexity, which makes it inefficient on large lists
+[Repository Solution](https://github.com/ramirez456/algorithms/blob/main/algorithms/selection_sort.ts)
 #### 6. Quick sort.
     Available on 28/04/23
 #### 7. Merge sort.
