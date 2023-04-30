@@ -26,7 +26,7 @@ Bubble sort is an algorithm used for sorting arrays, and its worst-case scenario
 Insertion sort is an algorithm used for sorting arrays, and its worst-case scenario time complexity is O(n&sup2;).<br/>
 [Repository Solution](https://github.com/ramirez456/algorithms/blob/main/algorithms/insert_sort.ts)
 #### 5. Selection sort.
-The selection sort is an in-place comparison sorting algorithm. It has an O(n&sup2;) time complexity, which makes it inefficient on large lists
+The selection sort is an in-place comparison sorting algorithm. It has an O(n&sup2;) time complexity, which makes it inefficient on large lists.<br/>
 [Repository Solution](https://github.com/ramirez456/algorithms/blob/main/algorithms/selection_sort.ts)
 #### 6. Quick sort.
     Available on 28/04/23
